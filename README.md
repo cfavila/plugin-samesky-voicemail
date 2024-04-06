@@ -1,4 +1,4 @@
-# Plugin Adessa POC
+# Plugin Voicemail Prompts
 
 This repository provides a simple illustration of sending an outbound SMS notification or creating a new SMS conversation.
 
